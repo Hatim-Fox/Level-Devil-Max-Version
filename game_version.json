@@ -2,8 +2,7 @@
     "version": "7.3",
     "url": "https://play.google.com/store/apps/details?id=com.rolfox.leveldevil",
     "maintenance": {
-        "status": "active",
-        "last_updated": "2024-10-13",
+        "status": true,
         "description": "Bug fixes and performance improvements."
     }
 }
